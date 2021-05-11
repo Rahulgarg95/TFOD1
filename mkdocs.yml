@@ -1,0 +1,19 @@
+site_name: TFOD1.x Setup
+nav:
+  - Home: index.md
+theme:
+  name: material
+  palette:
+    primary: black
+  features:
+    - navigation.sections
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/iamrahul95
+    - icon: fontawesome/brands/github
+      link: https://github.com/Rahulgarg95
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rahulgarg95/
